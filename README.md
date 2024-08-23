@@ -1,2 +1,2 @@
-# dummyLab
-This is to test forking or templating a new repository 
+# dummy Lab
+This is to test how forking or templating is used to create a new repository 
